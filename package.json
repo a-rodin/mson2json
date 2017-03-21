@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "blueprint-transactions": "0.0.2",
-    "protagonist": "1.1.1"
+    "protagonist": "1.6.6"
   },
   "repository": {
     "type": "git",
